@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-17T14:13:47 IST" name="Screenshot Suite" finished-at="2026-02-17T14:14:03 IST" duration-ms="15807">
+    <groups>
+    </groups>
+    <test started-at="2026-02-17T14:13:47 IST" name="Screenshot Tests" finished-at="2026-02-17T14:14:03 IST" duration-ms="15807">
+      <class name="demo.screenshots.ScreenshotDemoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demo.screenshots.ScreenshotDemoTest@3023df74]" started-at="2026-02-17T14:13:47 IST" name="setUp" finished-at="2026-02-17T14:13:51 IST" duration-ms="3073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="captureScreenshotsOnTheInternetApp()[pri:0, instance:demo.screenshots.ScreenshotDemoTest@3023df74]" started-at="2026-02-17T14:13:51 IST" name="captureScreenshotsOnTheInternetApp" finished-at="2026-02-17T14:14:03 IST" duration-ms="12383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshotsOnTheInternetApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demo.screenshots.ScreenshotDemoTest@3023df74]" started-at="2026-02-17T14:14:03 IST" name="tearDown" finished-at="2026-02-17T14:14:03 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.screenshots.ScreenshotDemoTest -->
+    </test> <!-- Screenshot Tests -->
+  </suite> <!-- Screenshot Suite -->
+</testng-results>

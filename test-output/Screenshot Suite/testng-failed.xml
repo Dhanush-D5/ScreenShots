@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Screenshot Suite]">
+  <test thread-count="5" name="Screenshot Tests(failed)">
+    <classes>
+      <class name="demo.screenshots.ScreenshotDemoTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="captureScreenshotsOnTheInternetApp"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- demo.screenshots.ScreenshotDemoTest -->
+    </classes>
+  </test> <!-- Screenshot Tests(failed) -->
+</suite> <!-- Failed suite [Screenshot Suite] -->
